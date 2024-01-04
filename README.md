@@ -1,4 +1,10 @@
 # Shadebound
+
+## Game Trailer
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sdq8twxePco/0.jpg)](https://www.youtube.com/watch?v=Sdq8twxePco)
+## Description Of The Game Engine
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7E7JqWaTpJA/0.jpg)](https://www.youtube.com/watch?v=7E7JqWaTpJA)
+
 ## The features of the game include
 
 ### Game Scenes
@@ -82,5 +88,10 @@
 - Menu that allows user to select an existing level to edit
 - Ability to select and place any Texture / Animation defined in the Assets file into the level
 - Any parameters of specific entities will be editable via the level editor (whether or not NPC can block vision, hit points, patrol points of NPC etc.)
-  
+
+### Contributors:
+- Apurva Acharya
+- Dong Han
+- Nhu Nguyen
+- Amrinder Singh
 
