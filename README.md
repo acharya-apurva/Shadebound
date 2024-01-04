@@ -1,5 +1,7 @@
 # Shadebound
 
+Shadebound is a 2D Game Engine implemented using ECS architecture using C++ and SFML and ImGui libraries. The game developed using the game engine is an action adventure fantasy 2D platformer which has 4 pre-build levels which are all defined in external text files.
+
 ## Game Trailer
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Sdq8twxePco/0.jpg)](https://www.youtube.com/watch?v=Sdq8twxePco)
 ## Description Of The Game Engine
